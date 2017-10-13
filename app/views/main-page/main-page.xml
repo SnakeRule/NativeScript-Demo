@@ -1,3 +1,5 @@
+<!-- Aloitussivun ui elementit -->
+
 <Page loaded="pageLoaded">
   <ActionBar title="Native Script demo" class="action-bar"></ActionBar>
   <StackLayout orientation="vertical">
