@@ -1,0 +1,16 @@
+<Page loaded="loaded">
+ <ActionBar title="Native Script demo" class="action-bar"></ActionBar>
+
+<StackLayout orientation="vertical">
+<Label text="Hello! I'm a second page!"/>
+
+<StackLayout orientation="horizontal">
+
+<Label text="insert text" />
+<TextField id="textSource" text=""/>
+
+</StackLayout>
+<Button text="Show text" tap="showText" />
+<Label text="I will change to what you wrote!" id="textTarget"/>
+</StackLayout>
+</Page>

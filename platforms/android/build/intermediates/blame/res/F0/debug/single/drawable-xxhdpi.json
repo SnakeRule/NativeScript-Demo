@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Jere\\NativeScrit_projects\\NS_demo\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-xxhdpi\\icon.png",
+        "source": "C:\\Users\\Jere\\NativeScrit_projects\\NS_demo\\platforms\\android\\src\\main\\res\\drawable-xxhdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Jere\\NativeScrit_projects\\NS_demo\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-xxhdpi\\background.png",
+        "source": "C:\\Users\\Jere\\NativeScrit_projects\\NS_demo\\platforms\\android\\src\\main\\res\\drawable-xxhdpi\\background.png"
+    },
+    {
+        "merged": "C:\\Users\\Jere\\NativeScrit_projects\\NS_demo\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-xxhdpi\\logo.png",
+        "source": "C:\\Users\\Jere\\NativeScrit_projects\\NS_demo\\platforms\\android\\src\\main\\res\\drawable-xxhdpi\\logo.png"
+    }
+]

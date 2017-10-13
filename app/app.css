@@ -1,0 +1,20 @@
+@import "nativescript-theme-core/css/sky.css";
+
+/* Your CSS goes here */
+Button{
+  margin: 10;
+  padding: 10;
+  vertical-align: center;
+}
+
+Label{
+  margin: 10;
+  padding: 10;
+  text-align: center;
+}
+
+TextField{
+
+  width: 60%;
+
+}
