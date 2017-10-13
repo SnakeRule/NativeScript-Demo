@@ -1,3 +1,5 @@
+// aloitussivun koodi
+
 var frameModule = require("ui/frame");
 
 exports.pageLoaded = function() {
