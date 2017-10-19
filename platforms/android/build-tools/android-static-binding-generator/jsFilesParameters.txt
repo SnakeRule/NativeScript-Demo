@@ -1,5 +1,6 @@
 C:\Users\Jere\NativeScrit_projects\NS_demo\platforms\android\src\main\assets\app\app.js
-C:\Users\Jere\NativeScrit_projects\NS_demo\platforms\android\src\main\assets\app\main-page.js
+C:\Users\Jere\NativeScrit_projects\NS_demo\platforms\android\src\main\assets\app\tns_modules\nativescript-camera\nativescript-camera-common.js
+C:\Users\Jere\NativeScrit_projects\NS_demo\platforms\android\src\main\assets\app\tns_modules\nativescript-camera\nativescript-camera.js
 C:\Users\Jere\NativeScrit_projects\NS_demo\platforms\android\src\main\assets\app\tns_modules\tns-core-modules\bundle-entry-points.js
 C:\Users\Jere\NativeScrit_projects\NS_demo\platforms\android\src\main\assets\app\tns_modules\tns-core-modules\application\application-common.js
 C:\Users\Jere\NativeScrit_projects\NS_demo\platforms\android\src\main\assets\app\tns_modules\tns-core-modules\application\application.js
@@ -151,3 +152,5 @@ C:\Users\Jere\NativeScrit_projects\NS_demo\platforms\android\src\main\assets\app
 C:\Users\Jere\NativeScrit_projects\NS_demo\platforms\android\src\main\assets\app\tns_modules\tns-core-modules\utils\utils.js
 C:\Users\Jere\NativeScrit_projects\NS_demo\platforms\android\src\main\assets\app\tns_modules\tns-core-modules\xhr\xhr.js
 C:\Users\Jere\NativeScrit_projects\NS_demo\platforms\android\src\main\assets\app\tns_modules\tns-core-modules\xml\xml.js
+C:\Users\Jere\NativeScrit_projects\NS_demo\platforms\android\src\main\assets\app\views\camera-view\camera-view.js
+C:\Users\Jere\NativeScrit_projects\NS_demo\platforms\android\src\main\assets\app\views\main-page\main-page.js

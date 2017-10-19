@@ -6,7 +6,7 @@
   <!-- Your UI components go here -->
   <Label text="Insert buttons to demo components here"/>
 
-  <Button text="Go to other view" tap="secondView"/>
+  <Button text="Camera demo" tap="cameraView"/>
 
   </StackLayout>
 </Page>

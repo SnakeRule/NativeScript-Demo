@@ -1,0 +1,52 @@
+{
+  "_from": "nativescript-camera",
+  "_id": "nativescript-camera@3.1.2",
+  "_inBundle": false,
+  "_integrity": "sha1-Qsc9g3dFcbemXPoix/ZbKRBk1/I=",
+  "_location": "/nativescript-camera",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "nativescript-camera",
+    "name": "nativescript-camera",
+    "escapedName": "nativescript-camera",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/nativescript-camera/-/nativescript-camera-3.1.2.tgz",
+  "_shasum": "42c73d83774571b7a65cfa22c7f65b291064d7f2",
+  "_spec": "nativescript-camera",
+  "_where": "C:\\Users\\Jere\\NativeScrit_Projects\\NS_demo",
+  "author": {
+    "name": "NativeScript team"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Provides API for using device camera",
+  "devDependencies": {
+    "tns-core-modules": "^3.0.0",
+    "tns-platform-declarations": "^3.0.0",
+    "typescript": "~2.2.2"
+  },
+  "keywords": [
+    "NativeScript",
+    "camera",
+    "gallery",
+    "images"
+  ],
+  "main": "nativescript-camera",
+  "name": "nativescript-camera",
+  "nativescript": {
+    "platforms": {
+      "android": "3.0.0",
+      "ios": "3.0.0"
+    }
+  },
+  "version": "3.1.2"
+}

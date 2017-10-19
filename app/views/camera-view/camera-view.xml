@@ -1,0 +1,12 @@
+<Page loaded="loaded">
+ <ActionBar title="Native Script demo" class="action-bar"></ActionBar>
+
+<StackLayout orientation="vertical">
+<Label text="Snap a photo and upload!"/>
+
+<Image pic id="picResult" src="" />
+
+<Button text="Take a photo" tap="takePicture" />
+
+</StackLayout>
+</Page>
