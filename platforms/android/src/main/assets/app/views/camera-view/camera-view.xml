@@ -1,12 +1,21 @@
 <Page loaded="loaded">
- <ActionBar title="Native Script demo" class="action-bar"></ActionBar>
 
+<ActionBar title="NativeScript demo" class="action-bar">
+
+<NavigationButton android.systemIcon="ic_menu_back" tap="onNavBtnTap"/>
+
+</ActionBar>
+<ScrollView orientation="vertical">
 <StackLayout orientation="vertical">
+
 <Label text="Snap a photo and upload!"/>
 
-<Image pic id="picResult" src="" />
+<Image pic id="picResult" />
 
-<Button text="Take a photo" tap="takePicture" />
+<Button id="takePicButton" text="Take a photo" tap="takePicture" />
+<Button id="imgurUploadButton" text="Share image" tap="socialUpload" />
 
 </StackLayout>
+</ScrollView>
+
 </Page>

@@ -1184,6 +1184,10 @@ android.support.transition.ViewUtilsImpl
 android.support.transition.Transition.TransitionListener
 android.support.transition.ViewGroupOverlayImpl
 android.support.transition.ViewGroupUtilsImpl
+net.gotev.uploadservice.http.HttpConnection
+net.gotev.uploadservice.http.HttpStack
+net.gotev.uploadservice.Logger.LoggerDelegate
+net.gotev.uploadservice.UploadStatusDelegate
 fi.iki.elonen.NanoHTTPD.TempFileManager
 fi.iki.elonen.NanoHTTPD.ServerSocketFactory
 fi.iki.elonen.NanoHTTPD.Response.IStatus

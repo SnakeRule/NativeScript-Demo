@@ -1,6 +1,9 @@
 {
+    "nativescript-background-http": true,
     "nativescript-camera": true,
+    "nativescript-social-share": true,
     "nativescript-theme-core": true,
+    "nativescript-toast": true,
     "tns-core-modules": true,
     "tns-core-modules-widgets": true
 }

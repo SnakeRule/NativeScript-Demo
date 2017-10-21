@@ -1,7 +1,7 @@
 <!-- Aloitussivun ui elementit -->
 
 <Page loaded="pageLoaded">
-  <ActionBar title="Native Script demo" class="action-bar"></ActionBar>
+  <ActionBar title="NativeScript demo" class="action-bar"></ActionBar>
   <StackLayout orientation="vertical">
   <!-- Your UI components go here -->
   <Label text="Insert buttons to demo components here"/>
