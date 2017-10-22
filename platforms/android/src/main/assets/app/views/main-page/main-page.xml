@@ -2,11 +2,10 @@
 
 <Page loaded="pageLoaded">
   <ActionBar title="NativeScript demo" class="action-bar"></ActionBar>
-  <StackLayout orientation="vertical">
+  <StackLayout orientation="vertical" id="menuStackLayout">
   <!-- Your UI components go here -->
-  <Label text="Insert buttons to demo components here"/>
 
-  <Button text="Camera demo" tap="cameraView"/>
-
+  <Button class="menuButton" text="Camera demo" tap="cameraView"/>
+  <Button class="menuButton" text="Imgur API demo" tap="imgurView"/>
   </StackLayout>
 </Page>

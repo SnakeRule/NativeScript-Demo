@@ -8,7 +8,7 @@
 <ScrollView orientation="vertical">
 <StackLayout orientation="vertical">
 
-<Label id="photoLabel" text="Snap a photo and upload" fontFamily="IcoMoon-Free"/>
+<Label id="photoLabel" text="Snap a photo and share2 it" fontFamily="IcoMoon-Free"/>
 
 <Image id="picResult" />
 

@@ -1,0 +1,25 @@
+<Page loaded="loaded">
+<ActionBar title="NativeScript imgur API demo" class="action-bar">
+
+<NavigationButton android.systemIcon="ic_menu_back" tap="onNavBtnTap"/>
+</ActionBar>
+<StackLayout>
+<StackLayout id="imgurWindowStackLayout" orientation="horizontal">
+<Image id="imgurLogo"/>
+<Label id="imgurPageTitle" text="Trending pictures" />
+</StackLayout>
+<!--<StackLayout id="imageStackLayout">
+</StackLayout>!-->
+<ListView items="{{ items }}" id="imageListView" itemTap="onItemTap" visibility="collapsed">
+<ListView.itemTemplate>
+<GridLayout id="listGridLayout" rows="auto" columns="auto">
+<StackLayout width="100%">
+<Image id="listImageImage" row="0" col="0" src="{{imageSrc}}" />
+<Label id="listImageLabel" textWrap="true" row="0" col="1" text="{{imageDesc}}" />
+<Label text="{{itemId}}" id="listImageId" visibility="collapsed"/>
+</StackLayout>
+</GridLayout>
+</ListView.itemTemplate>
+</ListView>
+</StackLayout>
+</Page>

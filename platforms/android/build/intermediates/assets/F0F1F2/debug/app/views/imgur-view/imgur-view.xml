@@ -1,0 +1,17 @@
+<Page loaded="loaded">
+<ActionBar title="NativeScript imgur API demo" class="action-bar">
+
+<NavigationButton android.systemIcon="ic_menu_back" tap="onNavBtnTap"/>
+</ActionBar>
+<StackLayout>
+<StackLayout id="imgurWindowStackLayout" orientation="horizontal">
+<Image id="imgurLogo"/>
+<Label id="imgurPageTitle" text="10 most viral pictures" />
+</StackLayout>
+<ScrollView orientation="vertical">
+
+<StackLayout id="imageStackLayout">
+</StackLayout>
+</ScrollView>
+</StackLayout>
+</Page>

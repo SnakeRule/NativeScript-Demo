@@ -1,11 +1,6 @@
 @import "nativescript-theme-core/css/sky.css";
 
 /* Your CSS goes here */
-Button{
-  margin: 10;
-  padding: 10;
-  vertical-align: center;
-}
 
 Label{
   margin: 10;
@@ -17,4 +12,66 @@ TextField{
 
   width: 60%;
 
+}
+
+#menuStackLayout{
+  vertical-align: center;
+}
+
+.menuButton{
+  font-size: 20;
+  padding-top: 15;
+  padding-bottom: 15;
+  margin-left: 10%;
+  margin-right: 10%;
+  text-transform: none;
+}
+
+.takePicButton{
+  vertical-align: center;
+  font-family: "IcoMoon-Free";
+  font-size: 20;
+  background-color: black;
+  padding-top : 20;
+  padding-bottom : 20;
+  color: white;
+  margin-top: 5;
+  margin-left: 50;
+  margin-right: 50;
+}
+
+#photoLabel{
+  font-size: 20;
+}
+
+#cameraPage{
+  background-color: rgb(255, 192, 252);
+}
+
+#cameraActionBar{
+  background-color: rgb(79, 18, 82);
+}
+
+#imgurUploadButton{
+  vertical-align: center;
+  font-family: "IcoMoon-Free";
+  font-size: 20;
+  background-color: black;
+  padding-top : 20;
+  padding-bottom : 20;
+  color: white;
+  margin-left: 50;
+  margin-right: 50;
+}
+
+#imgurWindowStackLayout{
+  background-color: rgb(7, 80, 0);
+  align-content: center;
+  padding-left: 50;
+}
+
+#imgurPageTitle{
+  padding: 3;
+  font-size: 20;
+  color: white;
 }

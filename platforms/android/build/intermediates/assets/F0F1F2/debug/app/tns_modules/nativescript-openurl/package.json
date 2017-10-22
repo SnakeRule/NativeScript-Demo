@@ -1,0 +1,62 @@
+{
+  "_from": "nativescript-openurl",
+  "_id": "nativescript-openurl@1.0.2",
+  "_inBundle": false,
+  "_integrity": "sha1-sx+H06u8sBc488fIec+qm7iKt8Q=",
+  "_location": "/nativescript-openurl",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "nativescript-openurl",
+    "name": "nativescript-openurl",
+    "escapedName": "nativescript-openurl",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/nativescript-openurl/-/nativescript-openurl-1.0.2.tgz",
+  "_shasum": "b31f87d3abbcb01738f3c7c879cfaa9bb88ab7c4",
+  "_spec": "nativescript-openurl",
+  "_where": "C:\\Users\\Jere\\NativeScrit_Projects\\NS_demo",
+  "author": {
+    "name": "Nathanael Anderson",
+    "email": "nathan@master-technology.com"
+  },
+  "bugs": {
+    "url": "https://github.com/nathanaela/nativescript-openurl/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "A Simple NativeScript open url module for Android and iOS",
+  "homepage": "https://github.com/nathanaela/nativescript-openurl",
+  "keywords": [
+    "NativeScript",
+    "URL",
+    "HTTP",
+    "browser",
+    "HTTPS",
+    "browsers"
+  ],
+  "license": {
+    "type": "MIT",
+    "url": "https://github.com/nathanaela/nativescript-openurl/blob/master/LICENSE"
+  },
+  "main": "openurl.js",
+  "name": "nativescript-openurl",
+  "nativescript": {
+    "platforms": {
+      "android": "1.0.1",
+      "ios": "1.0.1"
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nathanaela/nativescript-openurl.git"
+  },
+  "version": "1.0.2"
+}
