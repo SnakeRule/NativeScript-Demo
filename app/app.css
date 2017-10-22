@@ -2,8 +2,8 @@
 
 /* Your CSS goes here */
 Button{
-  margin: 10;
-  padding: 10;
+  margin: 2;
+  padding: 2;
   vertical-align: center;
 }
 
@@ -17,4 +17,39 @@ TextField{
 
   width: 60%;
 
+}
+
+.takePicButton{
+  font-family: "IcoMoon-Free";
+  font-size: 20;
+  background-color: black;
+  padding-top : 20;
+  padding-bottom : 20;
+  color: white;
+  margin: 20;
+  margin-left: 50;
+  margin-right: 50;
+}
+
+#photoLabel{
+  font-size: 20;
+}
+
+#cameraPage{
+  background-color: rgb(255, 192, 252);
+}
+
+#cameraActionBar{
+  background-color: rgb(79, 18, 82);
+}
+
+#imgurUploadButton{
+  font-family: "IcoMoon-Free";
+  font-size: 20;
+  background-color: black;
+  padding-top : 20;
+  padding-bottom : 20;
+  color: white;
+  margin-left: 50;
+  margin-right: 50;
 }

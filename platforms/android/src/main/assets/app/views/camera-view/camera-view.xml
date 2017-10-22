@@ -1,6 +1,6 @@
-<Page loaded="loaded">
+<Page loaded="loaded" id="cameraPage">
 
-<ActionBar title="NativeScript demo" class="action-bar">
+<ActionBar title="NativeScript camera demo" id="cameraActionBar" class="action-bar">
 
 <NavigationButton android.systemIcon="ic_menu_back" tap="onNavBtnTap"/>
 
@@ -8,12 +8,13 @@
 <ScrollView orientation="vertical">
 <StackLayout orientation="vertical">
 
-<Label text="Snap a photo and upload!"/>
+<Label id="photoLabel" text="Snap a photo and upload" fontFamily="IcoMoon-Free"/>
 
-<Image pic id="picResult" />
+<Image id="picResult" />
 
-<Button id="takePicButton" text="Take a photo" tap="takePicture" />
-<Button id="imgurUploadButton" text="Share image" tap="socialUpload" />
+<Button id="takePicButton" class="takePicButton" text="&#xe90f; Take a picture" tap="takePicture" />
+<Button id="takePicButton2" class="takePicButton" text="&#xe90f; Take another picture" tap="takePicture" visibility="collapsed"/>
+<Button id="imgurUploadButton" text="&#xea82; Share image" tap="socialUpload" />
 
 </StackLayout>
 </ScrollView>

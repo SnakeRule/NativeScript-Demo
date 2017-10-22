@@ -4,6 +4,7 @@ var textTarget;
 var pic;
 var savedPic;
 var takePicButton;
+var takeAnotherPicButton;
 var imgurUploadButton;
 var imageSourceModule = require("image-source");
 var camera = require("nativescript-camera");
@@ -24,10 +25,11 @@ exports.loaded = function(args) {
   imgurUploadButton.visibility = "collapse";
   pic = page.getViewById("picResult");
   takePicButton = page.getViewById("takePicButton");
+  takeAnotherPicButton = page.getViewById("takePicButton2");
     // Pyydetään kameralle käyttöluvat
     camera.requestPermissions();
 
-  if(takePicButton.text == "Take another picture")
+  if(takePicButton.visibility == "collapse")
   {
     imgurUploadButton.visibility = "visible";
   }
@@ -42,9 +44,9 @@ exports.takePicture = function(){
       var image = new imageModule.Image();
       image.src = imageAsset;
       pic.src = imageAsset;
-      takePicButton.text = "Take another picture";
+      takePicButton.visibility = "collapsed";
+      takeAnotherPicButton.visibility = "visible";
       imgurUploadButton.visibility = "visible";
-
       var toast = Toast.makeText("Picture saved to gallery");
       toast.show();
   }).catch(function (err) {
