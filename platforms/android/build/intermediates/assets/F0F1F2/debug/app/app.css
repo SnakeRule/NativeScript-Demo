@@ -67,11 +67,29 @@ TextField{
 #imgurWindowStackLayout{
   background-color: rgb(7, 80, 0);
   align-content: center;
-  padding-left: 50;
+  padding-left: 80;
+}
+
+#imageListView{
+}
+
+#listGridLayout{
+  vertical-align: center;
 }
 
 #imgurPageTitle{
   padding: 3;
   font-size: 20;
   color: white;
+}
+
+#listImageImage{
+  align-content: center;
+  width: 100%;
+}
+
+#listImageLabel{
+  font-size: 20;
+  width: 100%;
+  text-align: center;
 }

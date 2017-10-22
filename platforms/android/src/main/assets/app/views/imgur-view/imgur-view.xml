@@ -1,7 +1,8 @@
 <Page loaded="loaded">
 <ActionBar title="NativeScript imgur API demo" class="action-bar">
-
 <NavigationButton android.systemIcon="ic_menu_back" tap="onNavBtnTap"/>
+  <ActionItem tap="refresh"
+      android.systemIcon="ic_menu_refresh" font-family="IcoMoon-Free" android.position="right"/>
 </ActionBar>
 <StackLayout>
 <StackLayout id="imgurWindowStackLayout" orientation="horizontal">
@@ -10,11 +11,11 @@
 </StackLayout>
 <!--<StackLayout id="imageStackLayout">
 </StackLayout>!-->
-<ListView items="{{ items }}" id="imageListView" itemTap="onItemTap" visibility="collapsed">
+<ListView items="{{ items }}" id="imageListView" itemTap="onItemTap">
 <ListView.itemTemplate>
 <GridLayout id="listGridLayout" rows="auto" columns="auto">
 <StackLayout width="100%">
-<Image id="listImageImage" row="0" col="0" src="{{imageSrc}}" />
+<Image id="listImageImage" row="0" col="0" src="{{imageSrc}}" loadMode="async" />
 <Label id="listImageLabel" textWrap="true" row="0" col="1" text="{{imageDesc}}" />
 <Label text="{{itemId}}" id="listImageId" visibility="collapsed"/>
 </StackLayout>

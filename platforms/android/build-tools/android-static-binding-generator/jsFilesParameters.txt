@@ -2,6 +2,10 @@ C:\Users\Jere\NativeScrit_projects\NS_demo\platforms\android\src\main\assets\app
 C:\Users\Jere\NativeScrit_projects\NS_demo\platforms\android\src\main\assets\app\tns_modules\nativescript-background-http\background-http.js
 C:\Users\Jere\NativeScrit_projects\NS_demo\platforms\android\src\main\assets\app\tns_modules\nativescript-camera\nativescript-camera-common.js
 C:\Users\Jere\NativeScrit_projects\NS_demo\platforms\android\src\main\assets\app\tns_modules\nativescript-camera\nativescript-camera.js
+C:\Users\Jere\NativeScrit_projects\NS_demo\platforms\android\src\main\assets\app\tns_modules\nativescript-loading-indicator\loading-indicator.js
+C:\Users\Jere\NativeScrit_projects\NS_demo\platforms\android\src\main\assets\app\tns_modules\nativescript-loading-indicator\src\interfaces.js
+C:\Users\Jere\NativeScrit_projects\NS_demo\platforms\android\src\main\assets\app\tns_modules\nativescript-loading-indicator\src\android\progress-dialog.js
+C:\Users\Jere\NativeScrit_projects\NS_demo\platforms\android\src\main\assets\app\tns_modules\nativescript-loading-indicator\src\ios\mbprogress-hud.js
 C:\Users\Jere\NativeScrit_projects\NS_demo\platforms\android\src\main\assets\app\tns_modules\nativescript-openurl\openurl.js
 C:\Users\Jere\NativeScrit_projects\NS_demo\platforms\android\src\main\assets\app\tns_modules\nativescript-social-share\social-share.js
 C:\Users\Jere\NativeScrit_projects\NS_demo\platforms\android\src\main\assets\app\tns_modules\nativescript-toast\toast.js

@@ -21,7 +21,6 @@ var clientId = "96e762d0ccd74f8";
 var clientSecret = "0d57ac4d5af10e4e09905d7667b415b9298f00e4";
 var imageListView;
 var imgCounter = 0;
-var colorCounter = 0;
 var links = [];
 var listView;
 var stackLayouts = [];
@@ -36,8 +35,8 @@ exports.loaded = function(args) {
   imageListView = page.getViewById("imageListView");
   imgurLogo = page.getViewById("imgurLogo");
   imgCounter = 0;
-  colorCounter = 0;
   links = [];
+  items = [];
   listView = page.getViewById("imageListView");
   stackLayouts = [];
   imgurLogo.src = "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Imgur_logo.svg/2000px-Imgur_logo.svg.png";
@@ -60,7 +59,7 @@ function loadImages()
     str = response.content.toString();
     var jsonObj = response.content.toJSON();
 
-    for(i = 0; i < 20; i++) {
+    for(i = 0; i < 10; i++) {
 
       var element = jsonObj.data[i];
       
@@ -81,13 +80,9 @@ function loadImages()
       })
 
       links.push(element.id);
-
       imgCounter++;
-      colorCounter++;
     }
-
     pageData.set("items", items)
-    imageListView.visibility = "visible";
   }, function (e) {
     //// Argument (e) is Error!
 });
@@ -112,3 +107,11 @@ function onItemTap(args) {
   OpenUrl("https://imgur.com/gallery/" + link.text);
 }
 exports.onItemTap = onItemTap;
+
+exports.refresh = function(){
+  imgCounter = 0;
+  links = [];
+  items = [];
+  listView.refresh();
+  loadImages();
+}
