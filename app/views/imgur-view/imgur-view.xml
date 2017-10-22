@@ -1,5 +1,6 @@
 <Page loaded="loaded">
 <ActionBar title="NativeScript imgur API demo" class="action-bar">
+<!-->Navigaatiopalkin paluunäppäin actionbarissa<!-->
 <NavigationButton android.systemIcon="ic_menu_back" tap="onNavBtnTap"/>
   <ActionItem tap="refresh"
       android.systemIcon="ic_menu_refresh" font-family="IcoMoon-Free" android.position="right"/>
@@ -9,8 +10,6 @@
 <Image id="imgurLogo"/>
 <Label id="imgurPageTitle" text="Trending pictures" />
 </StackLayout>
-<!--<StackLayout id="imageStackLayout">
-</StackLayout>!-->
 <ListView items="{{ items }}" id="imageListView" itemTap="onItemTap">
 <ListView.itemTemplate>
 <GridLayout id="listGridLayout" rows="auto" columns="auto">
