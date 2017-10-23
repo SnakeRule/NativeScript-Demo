@@ -1,6 +1,16 @@
-<Page loaded="loaded">
-<ActionBar title="NativeScript imgur API demo" class="action-bar">
+<Page loaded="loaded"
+xmlns="http://www.nativescript.org/tns.xsd"
+	xmlns:maps="nativescript-google-maps-sdk">
+<ActionBar title="NativeScript map API demo" class="action-bar">
 <!-->Navigaatiopalkin paluunäppäin actionbarissa<!-->
 <NavigationButton android.systemIcon="ic_menu_back" tap="onNavBtnTap"/>
 </ActionBar>
+  <GridLayout>
+    <maps:mapView latitude="{{ latitude }}" longitude="{{ longitude }}" 
+    								zoom="{{ zoom }}" bearing="{{ bearing }}" 
+    								tilt="{{ tilt }}" padding="{{ padding }}" mapReady="onMapReady"  
+   								markerSelect="onMarkerSelect" markerBeginDragging="onMarkerBeginDragging"
+   								markerEndDragging="onMarkerEndDragging" markerDrag="onMarkerDrag"
+   								cameraChanged="onCameraChanged" />
+  </GridLayout>
 </Page>
