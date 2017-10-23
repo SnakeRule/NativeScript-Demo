@@ -1,9 +1,9 @@
 {
-	"time": "Mon Oct 23 2017 12:48:19 GMT+0300 (FLE Daylight Time)",
+	"time": "Mon Oct 23 2017 21:43:30 GMT+0300 (Suomen kesäaika)",
 	"nativePlatformStatus": "3",
 	"bundle": false,
 	"release": false,
-	"changesRequireBuild": true,
+	"changesRequireBuild": false,
 	"projectFileHash": "30b2c0d83923b79642bffe52f42783a139c4fdf93773da08984deb4043936803",
 	"changesRequireBuildTime": "Mon Oct 23 2017 12:48:19 GMT+0300 (FLE Daylight Time)"
 }
