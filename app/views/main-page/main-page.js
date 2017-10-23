@@ -19,3 +19,8 @@ exports.mapView = function(){
   var topmost = frameModule.topmost();
   topmost.navigate("views/map-view/map-view");
 };
+
+exports.flickrView = function(){
+  var topmost = frameModule.topmost();
+  topmost.navigate("views/flickr-view/flickr-view");
+};

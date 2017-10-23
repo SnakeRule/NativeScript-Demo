@@ -1,0 +1,23 @@
+<Page loaded="pageLoaded">
+    <ActionBar title="NativeScript Flickr API demo" class="action-bar">
+        <!-->Navigaatiopalkin paluunäppäin actionbarissa<!-->
+        <NavigationButton android.systemIcon="ic_menu_back" tap="onNavBtnTap"/>
+    </ActionBar>
+
+    <StackLayout orientation="vertical">
+        <!-- Hakukenttä -->
+        <TextField width="800px" text="{{txtKeyword}}"  hint="search keyword" id="txtKeyword" />
+        <!-- Hakunappi -->
+        <Button text="Search" height="150px" tap="search" style="background-color:skyblue;width:800px;border:none;font-size:16px;" />
+
+        <!-- Kuvien listaus -->
+        <ListView style="margin-top:50px;" items="{{ images }}">
+            <ListView.itemTemplate>
+
+                <Image stretch="fill" height="200px" src="{{img}}" />
+
+            </ListView.itemTemplate>
+        </ListView>
+    </StackLayout>
+
+</Page>

@@ -5,8 +5,10 @@
   <StackLayout orientation="vertical" id="menuStackLayout">
   <!-- Your UI components go here -->
 
-  <Button class="menuButton" text="Camera demo" tap="cameraView"/>
-  <Button class="menuButton" text="Imgur API demo" tap="imgurView"/>
-    <Button class="menuButton" text="Map demo" tap="mapView"/>
+      <Button class="menuButton" text="Camera demo" tap="cameraView"/>
+      <Button class="menuButton" text="Imgur API demo" tap="imgurView"/>
+      <Button class="menuButton" text="Map demo" tap="mapView"/>
+      <Button class="menuButton" text="Flickr API demo" tap="flickrView"/>
+
   </StackLayout>
 </Page>

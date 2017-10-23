@@ -1,5 +1,13 @@
-
+var page;
 var mapsModule = require("nativescript-google-maps-sdk");
+
+
+// kutsutaan sivun latauteass
+exports.loaded = function(args) {
+  // page muuttujan kautta päästään käsiksi ui elementteihin
+  page = args.object;
+  
+};
 
 exports.onNavBtnTap = onNavBtnTap;
 // kutsutaan kun painetaan takaisin nappia navi palkista
@@ -17,13 +25,13 @@ function onMapReady(args) {
   console.log("Setting a marker...");
   var marker = new mapsModule.Marker();
   marker.position = mapsModule.Position.positionFromLatLng(62.2333333, 25.7333333);
-  marker.title = "Sydney";
-  marker.snippet = "Australia";
+  marker.title = "Jyväskylä";
+  marker.snippet = "Suomi";
   marker.userData = { index : 1};
   mapView.addMarker(marker);
   
   // Disabling zoom gestures
-  mapView.settings.zoomGesturesEnabled = false;
+  mapView.settings.zoomGesturesEnabled = true;
   mapView.settings.compassEnabled = true;
 }
 

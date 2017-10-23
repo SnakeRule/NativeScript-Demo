@@ -163,6 +163,7 @@ D:\jamk\nativescript\NativeScript-Demo\platforms\android\src\main\assets\app\tns
 D:\jamk\nativescript\NativeScript-Demo\platforms\android\src\main\assets\app\tns_modules\tns-core-modules\xhr\xhr.js
 D:\jamk\nativescript\NativeScript-Demo\platforms\android\src\main\assets\app\tns_modules\tns-core-modules\xml\xml.js
 D:\jamk\nativescript\NativeScript-Demo\platforms\android\src\main\assets\app\views\camera-view\camera-view.js
+D:\jamk\nativescript\NativeScript-Demo\platforms\android\src\main\assets\app\views\flickr-view\flickr-view.js
 D:\jamk\nativescript\NativeScript-Demo\platforms\android\src\main\assets\app\views\imgur-view\imgur-view.js
 D:\jamk\nativescript\NativeScript-Demo\platforms\android\src\main\assets\app\views\main-page\main-page.js
 D:\jamk\nativescript\NativeScript-Demo\platforms\android\src\main\assets\app\views\map-view\map-view.js
