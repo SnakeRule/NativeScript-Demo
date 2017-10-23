@@ -14,3 +14,8 @@ exports.imgurView = function(){
   var topmost = frameModule.topmost();
   topmost.navigate("views/imgur-view/imgur-view");
 };
+
+exports.mapView = function(){
+  var topmost = frameModule.topmost();
+  topmost.navigate("views/map-view/map-view");
+};
