@@ -7,7 +7,7 @@
 
       <Button class="menuButton" text="Camera demo" tap="cameraView"/>
       <Button class="menuButton" text="Imgur API demo" tap="imgurView"/>
-      <Button class="menuButton" text="Map demo" tap="mapView"/>
+      <Button class="menuButton" text="Google Map API demo" tap="mapView"/>
       <Button class="menuButton" text="Flickr API demo" tap="flickrView"/>
 
   </StackLayout>
