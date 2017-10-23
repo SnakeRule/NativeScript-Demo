@@ -1,5 +1,5 @@
 <Page loaded="loaded"
-xmlns="http://www.nativescript.org/tns.xsd"
+  xmlns="http://www.nativescript.org/tns.xsd"
 	xmlns:maps="nativescript-google-maps-sdk">
 <ActionBar title="NativeScript map API demo" class="action-bar">
 <!-->Navigaatiopalkin paluunäppäin actionbarissa<!-->
