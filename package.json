@@ -12,6 +12,7 @@
 	"dependencies": {
 		"nativescript-background-http": "^3.1.0",
 		"nativescript-camera": "^3.1.2",
+		"nativescript-google-maps-sdk": "^2.4.2",
 		"nativescript-loading-indicator": "^2.4.0",
 		"nativescript-openurl": "^1.0.2",
 		"nativescript-social-share": "^1.4.0",
