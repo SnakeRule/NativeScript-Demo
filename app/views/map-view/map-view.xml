@@ -1,0 +1,6 @@
+<Page loaded="loaded">
+<ActionBar title="NativeScript imgur API demo" class="action-bar">
+<!-->Navigaatiopalkin paluunäppäin actionbarissa<!-->
+<NavigationButton android.systemIcon="ic_menu_back" tap="onNavBtnTap"/>
+</ActionBar>
+</Page>

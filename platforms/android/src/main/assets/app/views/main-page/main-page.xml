@@ -7,5 +7,6 @@
 
   <Button class="menuButton" text="Camera demo" tap="cameraView"/>
   <Button class="menuButton" text="Imgur API demo" tap="imgurView"/>
+    <Button class="menuButton" text="Map demo" tap="mapView"/>
   </StackLayout>
 </Page>
