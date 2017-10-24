@@ -17,7 +17,7 @@ exports.imgurView = function(){
 
 exports.flickrView = function(){
   var topmost = frameModule.topmost();
-  topmost.navigate("views/flickr-view/flicr-view");
+  topmost.navigate("views/flickr-view/flickr-view");
 };
 
 exports.mapView = function(){

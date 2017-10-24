@@ -15,6 +15,11 @@ exports.imgurView = function(){
   topmost.navigate("views/imgur-view/imgur-view");
 };
 
+exports.flickrView = function(){
+  var topmost = frameModule.topmost();
+  topmost.navigate("views/flickr-view/flickr-view");
+};
+
 exports.mapView = function(){
   var topmost = frameModule.topmost();
   topmost.navigate("views/map-view/map-view");
