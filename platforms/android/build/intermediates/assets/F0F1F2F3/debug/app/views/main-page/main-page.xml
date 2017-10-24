@@ -1,14 +1,20 @@
 <!-- Aloitussivun ui elementit -->
 
 <Page loaded="pageLoaded">
-  <ActionBar title="NativeScript demo" class="action-bar"></ActionBar>
+  <ActionBar title="NativeScript demo" class="action-bar">
+          <ActionItem tap="showCredits" text="Credits" android.position="popup"/>
+          <ActionItem tap="sendFeedback" text="Send Feedback" android.position="popup"/>
+          <ActionItem tap="exitDialog" text="Exit" android.position="popup"/>
+  </ActionBar>
+  <StackLayout orientation="vertical">
+  <Image id="logoImg" src="~/images/nativescript-logo.png" width="100%"/>
   <StackLayout orientation="vertical" id="menuStackLayout">
   <!-- Your UI components go here -->
-
       <Button class="menuButton" text="Camera demo" tap="cameraView"/>
       <Button class="menuButton" text="Imgur API demo" tap="imgurView"/>
-      <Button class="menuButton" text="Map demo" tap="mapView"/>
+      <Button class="menuButton" text="Google Map API demo" tap="mapView"/>
       <Button class="menuButton" text="Flickr API demo" tap="flickrView"/>
 
   </StackLayout>
+    </StackLayout>
 </Page>

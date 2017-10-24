@@ -24,6 +24,7 @@ function onMapReady(args) {
 
   console.log("Setting a marker...");
   var marker = new mapsModule.Marker();
+  marker.infoWindowTemplate = 'testWindow';
   marker.position = mapsModule.Position.positionFromLatLng(62.2333333, 25.7333333);
   marker.title = "Jyväskylä";
   marker.snippet = "Suomi";

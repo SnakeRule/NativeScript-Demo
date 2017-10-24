@@ -1,9 +1,9 @@
 {
-	"time": "Tue Oct 24 2017 20:36:20 GMT+0300 (FLE Daylight Time)",
+	"time": "Wed Oct 25 2017 00:41:32 GMT+0300 (FLE Daylight Time)",
 	"nativePlatformStatus": "3",
 	"bundle": false,
 	"release": false,
 	"changesRequireBuild": false,
-	"projectFileHash": "30b2c0d83923b79642bffe52f42783a139c4fdf93773da08984deb4043936803",
-	"changesRequireBuildTime": "Tue Oct 24 2017 00:27:39 GMT+0300 (FLE Daylight Time)"
+	"projectFileHash": "3661ef4573d090dac46ff2a018a2bf5abd2589b8ffa692493a480f33ea089306",
+	"changesRequireBuildTime": "Wed Oct 25 2017 00:17:52 GMT+0300 (FLE Daylight Time)"
 }

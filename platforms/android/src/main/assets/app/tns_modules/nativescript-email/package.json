@@ -1,0 +1,70 @@
+{
+  "_from": "nativescript-email",
+  "_id": "nativescript-email@1.5.1",
+  "_inBundle": false,
+  "_integrity": "sha1-5/+KmbOgmWwU8x7rAUUPzrhRVHg=",
+  "_location": "/nativescript-email",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "nativescript-email",
+    "name": "nativescript-email",
+    "escapedName": "nativescript-email",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/nativescript-email/-/nativescript-email-1.5.1.tgz",
+  "_shasum": "e7ff8a99b3a0996c14f31eeb01450fceb8515478",
+  "_spec": "nativescript-email",
+  "_where": "C:\\Users\\Jere\\NativeScrit_Projects\\NS_demo",
+  "author": {
+    "name": "Eddy Verbruggen",
+    "email": "eddyverbruggen@gmail.com",
+    "url": "https://github.com/EddyVerbruggen"
+  },
+  "bugs": {
+    "url": "https://github.com/eddyverbruggen/nativescript-email/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "Brad Martin",
+      "email": "bradwaynemartin@gmail.com",
+      "url": "https://github.com/BradMartin"
+    }
+  ],
+  "deprecated": false,
+  "description": "Email plugin for your NativeScript app",
+  "homepage": "https://github.com/eddyverbruggen/nativescript-email",
+  "keywords": [
+    "NativeScript",
+    "Mail",
+    "Email",
+    "E-mail",
+    "Draft",
+    "Compose",
+    "MailComposer",
+    "Attachment"
+  ],
+  "license": "MIT",
+  "main": "email",
+  "name": "nativescript-email",
+  "nativescript": {
+    "platforms": {
+      "ios": "2.3.0",
+      "android": "2.3.0"
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eddyverbruggen/nativescript-email.git"
+  },
+  "typings": "index.d.ts",
+  "version": "1.5.1"
+}

@@ -1,14 +1,14 @@
 [
     {
-        "merged": "D:\\jamk\\nativescript\\NativeScript-Demo\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\drawable-xxxhdpi\\icon.png",
-        "source": "D:\\jamk\\nativescript\\NativeScript-Demo\\platforms\\android\\src\\main\\res\\drawable-xxxhdpi\\icon.png"
+        "merged": "C:\\Users\\Jere\\NativeScrit_projects\\NS_demo\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\drawable-xxxhdpi\\logo.png",
+        "source": "C:\\Users\\Jere\\NativeScrit_projects\\NS_demo\\platforms\\android\\src\\main\\res\\drawable-xxxhdpi\\logo.png"
     },
     {
-        "merged": "D:\\jamk\\nativescript\\NativeScript-Demo\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\drawable-xxxhdpi\\background.png",
-        "source": "D:\\jamk\\nativescript\\NativeScript-Demo\\platforms\\android\\src\\main\\res\\drawable-xxxhdpi\\background.png"
+        "merged": "C:\\Users\\Jere\\NativeScrit_projects\\NS_demo\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\drawable-xxxhdpi\\background.png",
+        "source": "C:\\Users\\Jere\\NativeScrit_projects\\NS_demo\\platforms\\android\\src\\main\\res\\drawable-xxxhdpi\\background.png"
     },
     {
-        "merged": "D:\\jamk\\nativescript\\NativeScript-Demo\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\drawable-xxxhdpi\\logo.png",
-        "source": "D:\\jamk\\nativescript\\NativeScript-Demo\\platforms\\android\\src\\main\\res\\drawable-xxxhdpi\\logo.png"
+        "merged": "C:\\Users\\Jere\\NativeScrit_projects\\NS_demo\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\drawable-xxxhdpi\\icon.png",
+        "source": "C:\\Users\\Jere\\NativeScrit_projects\\NS_demo\\platforms\\android\\src\\main\\res\\drawable-xxxhdpi\\icon.png"
     }
 ]

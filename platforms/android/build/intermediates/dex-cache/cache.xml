@@ -3,192 +3,192 @@
 
     <item
         is-multidex="false"
-        jar="D:\jamk\nativescript\NativeScript-Demo\platforms\android\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.2"
-        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
-        <dex dex="D:\jamk\nativescript\NativeScript-Demo\platforms\android\build\intermediates\pre-dexed\F0F1F2F3\debug\com.android.support-appcompat-v7-25.3.1_5e570c6cb3337a721013e75597d54dd63bb5d3b8.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\jamk\nativescript\NativeScript-Demo\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\11.0.4\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.2"
-        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
-        <dex dex="D:\jamk\nativescript\NativeScript-Demo\platforms\android\build\intermediates\pre-dexed\F0F1F2F3\debug\com.google.android.gms-play-services-base-11.0.4_5dcfb4f1aa28302dcbee0d8d7837360632472f16.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\borha\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.2"
-        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
-        <dex dex="D:\jamk\nativescript\NativeScript-Demo\platforms\android\build\intermediates\pre-dexed\F0F1F2F3\debug\support-annotations-25.3.1_c68f3f8ddfc1985940a04f1be32806fe4f56d7a7.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\jamk\nativescript\NativeScript-Demo\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.2"
-        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
-        <dex dex="D:\jamk\nativescript\NativeScript-Demo\platforms\android\build\intermediates\pre-dexed\F0F1F2F3\debug\com.android.support-support-core-utils-25.3.1_9e2b4bdc1e38ca2c74c75ea27db29ad336300e47.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\jamk\nativescript\NativeScript-Demo\platforms\android\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.2"
-        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
-        <dex dex="D:\jamk\nativescript\NativeScript-Demo\platforms\android\build\intermediates\pre-dexed\F0F1F2F3\debug\com.android.support-animated-vector-drawable-25.3.1_51fe07ed9ab399ea5ce63e7eb39d666ae2f77327.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\jamk\nativescript\NativeScript-Demo\platforms\android\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.2"
-        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
-        <dex dex="D:\jamk\nativescript\NativeScript-Demo\platforms\android\build\intermediates\pre-dexed\F0F1F2F3\debug\com.android.support-support-media-compat-25.3.1_95b50f584bb38a9165b0600c7cb509010a39ca53.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\jamk\nativescript\NativeScript-Demo\platforms\android\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.2"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="D:\jamk\nativescript\NativeScript-Demo\platforms\android\build\intermediates\pre-dexed\F0F1F2F3\debug\com.android.support-support-v4-25.3.1_17de5127007783dfff90e9289d695194aebea343.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\jamk\nativescript\NativeScript-Demo\platforms\android\build\intermediates\exploded-aar\NSdemo\runtime\unspecified\jars\libs\binding-generator.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.2"
-        sha1="a3e74f5f1ebe12c7cfa6591158ef298c95a5275f">
-        <dex dex="D:\jamk\nativescript\NativeScript-Demo\platforms\android\build\intermediates\pre-dexed\F0F1F2F3\debug\binding-generator_bbcddd664110dbc71ff39ce282f895320ef8e584.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\jamk\nativescript\NativeScript-Demo\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\11.0.4\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.2"
-        sha1="fcae52a60bc07924d370b4d376116cd8f8581f54">
-        <dex dex="D:\jamk\nativescript\NativeScript-Demo\platforms\android\build\intermediates\pre-dexed\F0F1F2F3\debug\com.google.android.gms-play-services-maps-11.0.4_73c059f824e79bf518b065eaad4a09b20f3d33a4.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\jamk\nativescript\NativeScript-Demo\platforms\android\build\intermediates\exploded-aar\com.android.support\transition\25.3.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.2"
-        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
-        <dex dex="D:\jamk\nativescript\NativeScript-Demo\platforms\android\build\intermediates\pre-dexed\F0F1F2F3\debug\com.android.support-transition-25.3.1_d9fbec1e8cbead54d9dd667a67e18a0a835343c2.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\jamk\nativescript\NativeScript-Demo\platforms\android\build\intermediates\exploded-aar\net.gotev\uploadservice\3.0.3\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.2"
-        sha1="679035e7050e209cfa2bd29f08c20eecbec96063">
-        <dex dex="D:\jamk\nativescript\NativeScript-Demo\platforms\android\build\intermediates\pre-dexed\F0F1F2F3\debug\net.gotev-uploadservice-3.0.3_8d20b356129918c6df1707293af599099a3183d1.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\jamk\nativescript\NativeScript-Demo\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.2"
-        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
-        <dex dex="D:\jamk\nativescript\NativeScript-Demo\platforms\android\build\intermediates\pre-dexed\F0F1F2F3\debug\com.android.support-support-core-ui-25.3.1_6a273b16087c7822ef0daabb6cc7af7d7a183348.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\jamk\nativescript\NativeScript-Demo\platforms\android\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.2"
-        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
-        <dex dex="D:\jamk\nativescript\NativeScript-Demo\platforms\android\build\intermediates\pre-dexed\F0F1F2F3\debug\com.android.support-support-fragment-25.3.1_80e7aa268eccba03f4cf01353cd5288dbf1a12f0.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\jamk\nativescript\NativeScript-Demo\platforms\android\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.2"
-        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
-        <dex dex="D:\jamk\nativescript\NativeScript-Demo\platforms\android\build\intermediates\pre-dexed\F0F1F2F3\debug\com.android.support-support-vector-drawable-25.3.1_85069306c98e0870460986d7b8029da649abbfbe.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\jamk\nativescript\NativeScript-Demo\platforms\android\build\intermediates\exploded-aar\com.android.support\design\25.3.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.2"
-        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
-        <dex dex="D:\jamk\nativescript\NativeScript-Demo\platforms\android\build\intermediates\pre-dexed\F0F1F2F3\debug\com.android.support-design-25.3.1_6e6cd8ed2fd4698d321c1e7afdb53d25ba75beb8.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\jamk\nativescript\NativeScript-Demo\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\11.0.4\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.2"
-        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
-        <dex dex="D:\jamk\nativescript\NativeScript-Demo\platforms\android\build\intermediates\pre-dexed\F0F1F2F3\debug\com.google.android.gms-play-services-tasks-11.0.4_79e8a2facad7cc2d4aed59e41e83d7c4a76046eb.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\jamk\nativescript\NativeScript-Demo\platforms\android\build\intermediates\exploded-aar\widgets-release\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.2"
-        sha1="ada15dd7aad50793dcd67b281a8eb06e80007500">
-        <dex dex="D:\jamk\nativescript\NativeScript-Demo\platforms\android\build\intermediates\pre-dexed\F0F1F2F3\debug\intermediates-exploded-aar-widgets-release_e0f1c03ecffbda7c02efce1c7c86f27b661379dd.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\jamk\nativescript\NativeScript-Demo\platforms\android\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.2"
-        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
-        <dex dex="D:\jamk\nativescript\NativeScript-Demo\platforms\android\build\intermediates\pre-dexed\F0F1F2F3\debug\com.android.support-support-compat-25.3.1_cc6a8b2eafe1a4dccd2d41977c506d66898e5c70.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\jamk\nativescript\NativeScript-Demo\platforms\android\build\intermediates\exploded-aar\NSdemo\runtime\unspecified\jars\classes.jar"
+        jar="C:\Users\Jere\NativeScrit_projects\NS_demo\platforms\android\build\intermediates\exploded-aar\NSdemo\runtime\unspecified\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.2"
         sha1="eb6078500d1af5e7b663871706674405c57292a3">
-        <dex dex="D:\jamk\nativescript\NativeScript-Demo\platforms\android\build\intermediates\pre-dexed\F0F1F2F3\debug\NSdemo-runtime-unspecified_286c6fe3485b6792a40d48f005fa0c9340bdac2d.jar" />
+        <dex dex="C:\Users\Jere\NativeScrit_projects\NS_demo\platforms\android\build\intermediates\pre-dexed\F0F1F2F3\debug\NSdemo-runtime-unspecified_e99646562ce0e008ece36eeff9bf358de53c6b0e.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="D:\jamk\nativescript\NativeScript-Demo\platforms\android\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.3.1\jars\classes.jar"
+        jar="C:\Users\Jere\NativeScrit_projects\NS_demo\platforms\android\build\intermediates\exploded-aar\net.gotev\uploadservice\3.0.3\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.2"
-        sha1="95519720620b553f63afc789beba9ad582807f7c">
-        <dex dex="D:\jamk\nativescript\NativeScript-Demo\platforms\android\build\intermediates\pre-dexed\F0F1F2F3\debug\com.android.support-recyclerview-v7-25.3.1_e8cf713e9ae1154a76036f2ce52e80fd0244652c.jar" />
+        sha1="679035e7050e209cfa2bd29f08c20eecbec96063">
+        <dex dex="C:\Users\Jere\NativeScrit_projects\NS_demo\platforms\android\build\intermediates\pre-dexed\F0F1F2F3\debug\net.gotev-uploadservice-3.0.3_251c08c45cf5cda0f63ddcfd4ccb228656a8f447.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="D:\jamk\nativescript\NativeScript-Demo\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\11.0.4\jars\classes.jar"
+        jar="C:\Users\Jere\NativeScrit_projects\NS_demo\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="C:\Users\Jere\NativeScrit_projects\NS_demo\platforms\android\build\intermediates\pre-dexed\F0F1F2F3\debug\com.google.android.gms-play-services-tasks-11.0.4_8f94571ee811ff4e3097158fdb1c6d9b2db0d690.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jere\NativeScrit_projects\NS_demo\platforms\android\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="C:\Users\Jere\NativeScrit_projects\NS_demo\platforms\android\build\intermediates\pre-dexed\F0F1F2F3\debug\com.android.support-recyclerview-v7-26.0.0-alpha1_1e83e857c3ffa221443ad7abc40e2053c4719cce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jere\NativeScrit_projects\NS_demo\platforms\android\build\intermediates\exploded-aar\com.android.support\support-media-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="C:\Users\Jere\NativeScrit_projects\NS_demo\platforms\android\build\intermediates\pre-dexed\F0F1F2F3\debug\com.android.support-support-media-compat-26.0.0-alpha1_17005cb5b301878df00f882ef7972941c73f6d81.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jere\NativeScrit_projects\NS_demo\platforms\android\build\intermediates\exploded-aar\com.android.support\transition\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="C:\Users\Jere\NativeScrit_projects\NS_demo\platforms\android\build\intermediates\pre-dexed\F0F1F2F3\debug\com.android.support-transition-26.0.0-alpha1_ca0bab01f2fd198efda05e90b7f38727a458401f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jere\NativeScrit_projects\NS_demo\platforms\android\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="C:\Users\Jere\NativeScrit_projects\NS_demo\platforms\android\build\intermediates\pre-dexed\F0F1F2F3\debug\com.android.support-support-vector-drawable-26.0.0-alpha1_0f6d2bd576885fe50410108b348aad67b3f550d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jere\NativeScrit_projects\NS_demo\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fcae52a60bc07924d370b4d376116cd8f8581f54">
+        <dex dex="C:\Users\Jere\NativeScrit_projects\NS_demo\platforms\android\build\intermediates\pre-dexed\F0F1F2F3\debug\com.google.android.gms-play-services-maps-11.0.4_a06ca8b24a16b5e8b6de73ab70f5bcb973a7829e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jere\NativeScrit_projects\NS_demo\platforms\android\build\intermediates\exploded-aar\com.android.support\design\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="C:\Users\Jere\NativeScrit_projects\NS_demo\platforms\android\build\intermediates\pre-dexed\F0F1F2F3\debug\com.android.support-design-26.0.0-alpha1_977af79fd32c30be625bdfa191ab385730675158.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jere\NativeScrit_projects\NS_demo\platforms\android\build\intermediates\exploded-aar\com.android.support\support-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="C:\Users\Jere\NativeScrit_projects\NS_demo\platforms\android\build\intermediates\pre-dexed\F0F1F2F3\debug\com.android.support-support-compat-26.0.0-alpha1_5f1417b7a2c20f06d7f6325f3a6afa6242551838.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jere\NativeScrit_projects\NS_demo\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\11.0.4\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.2"
         sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
-        <dex dex="D:\jamk\nativescript\NativeScript-Demo\platforms\android\build\intermediates\pre-dexed\F0F1F2F3\debug\com.google.android.gms-play-services-basement-11.0.4_088f8e4176f202de8182b7b4a400c8c8448f389e.jar" />
+        <dex dex="C:\Users\Jere\NativeScrit_projects\NS_demo\platforms\android\build\intermediates\pre-dexed\F0F1F2F3\debug\com.google.android.gms-play-services-basement-11.0.4_f541193a0f0eb54188cb3d7eec9ad831ce37c324.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jere\NativeScrit_projects\NS_demo\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-utils\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="C:\Users\Jere\NativeScrit_projects\NS_demo\platforms\android\build\intermediates\pre-dexed\F0F1F2F3\debug\com.android.support-support-core-utils-26.0.0-alpha1_e7ceea5a2247da79ca4db9a59879212b7864ec20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jere\NativeScrit_projects\NS_demo\platforms\android\build\intermediates\exploded-aar\NSdemo\runtime\unspecified\jars\libs\binding-generator.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a3e74f5f1ebe12c7cfa6591158ef298c95a5275f">
+        <dex dex="C:\Users\Jere\NativeScrit_projects\NS_demo\platforms\android\build\intermediates\pre-dexed\F0F1F2F3\debug\binding-generator_727da52e59515fede9fc1d851c7f29fc8bc16d23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jere\NativeScrit_projects\NS_demo\platforms\android\build\intermediates\exploded-aar\com.android.support\appcompat-v7\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="C:\Users\Jere\NativeScrit_projects\NS_demo\platforms\android\build\intermediates\pre-dexed\F0F1F2F3\debug\com.android.support-appcompat-v7-26.0.0-alpha1_fa8fa73dc87dfe289a3d4c3b2ee8388b11b34ddd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jere\NativeScrit_projects\NS_demo\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-ui\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="C:\Users\Jere\NativeScrit_projects\NS_demo\platforms\android\build\intermediates\pre-dexed\F0F1F2F3\debug\com.android.support-support-core-ui-26.0.0-alpha1_401179e179839591228ceaf5c944f8c483ecc033.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jere\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="C:\Users\Jere\NativeScrit_projects\NS_demo\platforms\android\build\intermediates\pre-dexed\F0F1F2F3\debug\support-annotations-26.0.0-alpha1_40d84e5c5e2f88f801d3d3304b4832b808fdf262.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jere\NativeScrit_projects\NS_demo\platforms\android\build\intermediates\exploded-aar\com.android.support\support-v4\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Jere\NativeScrit_projects\NS_demo\platforms\android\build\intermediates\pre-dexed\F0F1F2F3\debug\com.android.support-support-v4-26.0.0-alpha1_fab7de830226c3ad2534409b25593d5485928132.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jere\NativeScrit_projects\NS_demo\platforms\android\build\intermediates\exploded-aar\widgets-release\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ada15dd7aad50793dcd67b281a8eb06e80007500">
+        <dex dex="C:\Users\Jere\NativeScrit_projects\NS_demo\platforms\android\build\intermediates\pre-dexed\F0F1F2F3\debug\intermediates-exploded-aar-widgets-release_f74011cc2385cb05f8ff39f95b2eb93f10e5663e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jere\NativeScrit_projects\NS_demo\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="C:\Users\Jere\NativeScrit_projects\NS_demo\platforms\android\build\intermediates\pre-dexed\F0F1F2F3\debug\com.google.android.gms-play-services-base-11.0.4_8b85d7af297c7c941df45917924bc5d73d66c7cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jere\NativeScrit_projects\NS_demo\platforms\android\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="C:\Users\Jere\NativeScrit_projects\NS_demo\platforms\android\build\intermediates\pre-dexed\F0F1F2F3\debug\com.android.support-animated-vector-drawable-26.0.0-alpha1_5950999e2fc72a086f88a2993fc1a4e087b71704.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jere\NativeScrit_projects\NS_demo\platforms\android\build\intermediates\exploded-aar\com.android.support\support-fragment\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="C:\Users\Jere\NativeScrit_projects\NS_demo\platforms\android\build\intermediates\pre-dexed\F0F1F2F3\debug\com.android.support-support-fragment-26.0.0-alpha1_0456f14f828ce492f8c707c09bfc6a32131e280c.jar" />
     </item>
 
 </items>

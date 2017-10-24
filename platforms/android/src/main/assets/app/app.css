@@ -14,8 +14,14 @@ TextField{
 
 }
 
+#logoImg{
+  padding-bottom: 10;
+}
+
 #menuStackLayout{
+  background-color: rgb(61, 90, 254);
   vertical-align: center;
+  height: 100%;
 }
 
 .menuButton{

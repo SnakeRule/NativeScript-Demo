@@ -1,6 +1,17 @@
 // aloitussivun koodi
 
 var frameModule = require("ui/frame");
+var dialogs = require("ui/dialogs");
+var email = require("nativescript-email");
+var exit = require("nativescript-exit");
+var app = require("application");
+
+let options = {
+  title: "Exit",
+  message: "Are you sure you want to exit the application?",
+  okButtonText: "Yes",
+  cancelButtonText: "Cancel",
+};
 
 exports.pageLoaded = function() {
 };
@@ -23,4 +34,45 @@ exports.flickrView = function(){
 exports.mapView = function(){
   var topmost = frameModule.topmost();
   topmost.navigate("views/map-view/map-view");
+};
+
+exports.showCredits = function(){
+  dialogs.alert({
+    title: "Credits",
+    message: "Demo created by\nJere Valtanen\nTiia Aarnio\nAmini Borhan",
+    okButtonText: "Return"
+}).then(function () {
+    console.log("Dialog closed!");
+});
+};
+
+exports.sendFeedback = function(){
+
+  email.compose({
+    subject: "Feedback on NS demo",
+    body: "Wow, Everything is so <strong>NATIVE</strong>",
+    to: ['jerevaltanen@gmail.com']
+}).then(
+  function() {
+    console.log("Email composer closed");
+  }, function(err) {
+    console.log("Error: " + err);
+  });
+};
+
+exports.exitDialog = function() {
+  confirm(options).then((result) => {
+    console.log(result);
+    if(result)
+    {
+      if(app.android)
+      {
+        android.os.Process.killProcess(android.os.Process.myPid());
+      }
+      else if(app.ios)
+      {
+        exit(0)
+      }
+    }
+});
 };

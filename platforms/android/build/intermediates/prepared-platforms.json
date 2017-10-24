@@ -1,6 +1,8 @@
 {
     "nativescript-background-http": true,
     "nativescript-camera": true,
+    "nativescript-email": true,
+    "nativescript-exit": true,
     "nativescript-google-maps-sdk": true,
     "nativescript-loading-indicator": true,
     "nativescript-openurl": true,

@@ -11,7 +11,7 @@
         <Button text="Search" height="150px" tap="search" style="background-color:skyblue;width:800px;border:none;font-size:16px;" />
 
         <!-- Kuvien listaus -->
-        <ListView style="margin-top:50px;" items="{{ images }}">
+        <ListView style="margin-top:50px;" height="100%" items="{{ images }}">
             <ListView.itemTemplate>
 
                 <Image stretch="fill" height="200px" src="{{img}}" />
